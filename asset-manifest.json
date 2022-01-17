@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-ldo-ist/static/css/main.adf1d484.css",
+    "main.js": "/to-ldo-ist/static/js/main.6ef17618.js",
+    "static/js/787.ddb4bf08.chunk.js": "/to-ldo-ist/static/js/787.ddb4bf08.chunk.js",
+    "index.html": "/to-ldo-ist/index.html",
+    "main.adf1d484.css.map": "/to-ldo-ist/static/css/main.adf1d484.css.map",
+    "main.6ef17618.js.map": "/to-ldo-ist/static/js/main.6ef17618.js.map",
+    "787.ddb4bf08.chunk.js.map": "/to-ldo-ist/static/js/787.ddb4bf08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf1d484.css",
+    "static/js/main.6ef17618.js"
+  ]
+}
